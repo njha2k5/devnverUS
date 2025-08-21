@@ -1,0 +1,5 @@
+ package Test
+public class learn {
+ int x = 100;
+int y = 200;
+system.out.print(x+y);
